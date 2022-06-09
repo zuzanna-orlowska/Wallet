@@ -2,8 +2,10 @@ import sqlite3
 
 import db
 
-db.dbInit()
+# db.dbInit()
+#
+# db.dbCreateTables()
+#
+# db.dbInitInsert()
 
-db.dbCreateTables()
-
-db.dbTableInsert()
+db.dbIncomeSplit(2001)
