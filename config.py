@@ -1,0 +1,1 @@
+categoryNames = [("Opłaty konieczne",), ("Oszczędności",), ("Przyjemności",), ("Hobby",), ("Inwestycje",), ("Dla innych",)]
